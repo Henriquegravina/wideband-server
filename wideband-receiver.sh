@@ -1,4 +1,16 @@
 #!/bin/bash
+
+#
+# RTL_SDR multicast server for Hamradio
+#
+# Author: Henrique Brancher Gravina, PU3IKE
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License 2 as published by
+# the Free Software Foundation
+#
+#
+
 PATH=$PATH:$(pwd)
 cd /run/user/$UID
 

@@ -1,4 +1,17 @@
 #!/usr/bin/env python
+
+#
+# SDR Multicast client with FT8 decode for Hamradio
+#
+#
+# Author: Henrique Brancher Gravina, PU3IKE
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License 2 as published by
+# the Free Software Foundation
+#
+#
+
 import socket
 import struct
 import sys
